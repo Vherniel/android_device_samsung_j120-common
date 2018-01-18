@@ -16,7 +16,5 @@ Display | 4.5"
 Features | Accelerometer, Proximity Sensor
 Selfie Camera  | 5 MP, 2576 x 1932 LED flash
 Rear Camera  | 2 MP, 1600 x 1200 pixels, autofocus
-<hr>
-<hr>
 
 ![Galaxy J1 (2016) LTE](https://www.germanos.gr/images/type1/20330044/20330044_ktsamsunggalaxyj12016blacka_medium.png "Galaxy J1 (2016) LTE")
