@@ -1,5 +1,4 @@
-
-Device Tree For Samsung Galaxy J1 LTE (2016)
+Common Device Tree For Samsung Galaxy J1 LTE (2016)
 ============================================
 
 Basic   | Spec Sheet
